@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ISBNChecker
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ ISBNChecker.\r\n\ \r\n\ @author\ (Hamza\ Al\ Mokdad)\ \r\n\ @version\ (22.01.2021_01)\r\n
+comment1.params=
+comment1.target=ISBNChecker()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ ISBNChecker\r\n
+comment2.params=isbn
+comment2.target=java.lang.String\ checkISBN(java.lang.String)
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=isbn
+comment3.target=boolean\ checkISBN10(java.lang.String)
+comment3.text=\r\n\ ISBN-10\r\n
+comment4.params=isbn
+comment4.target=boolean\ checkISBN13(java.lang.String)
+comment4.text=\r\n\ ISBN-13\r\n
+comment5.params=isbn
+comment5.target=int\ getISBNLength(java.lang.String)
+comment6.params=isbn
+comment6.target=java.lang.String\ loescheStricheUndLeerZeichen(java.lang.String)
+numComments=7
